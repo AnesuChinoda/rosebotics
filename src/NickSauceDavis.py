@@ -1,5 +1,5 @@
 """
-  Capstone Project.  Code written by Nicholas Davis II.
+  Capstone Project.  Code written by Nicholas A Davis II.
   Fall term, 2018-2019.
 """
 
