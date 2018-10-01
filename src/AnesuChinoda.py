@@ -1,5 +1,5 @@
 """
-  Capstone Project.  Code written by Anesu Chinoda, Alec Polster, and Nick Davis.
+  Capstone Project.  Code written by Anesu Chinoda.
   Fall term, 2018-2019.
 """
 
