@@ -1,5 +1,5 @@
 """
-  Capstone Project.  Code written by .
+  Capstone Project.  Code written by Alec Polster.
   Fall term, 2018-2019.
 """
 
