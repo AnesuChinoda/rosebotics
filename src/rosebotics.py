@@ -33,6 +33,11 @@ class Snatch3rRobot(object):
         time.sleep(n)
         self.left_wheel.stop_spinning(StopAction.BRAKE.value)
 
+    def forward(self, n):
+        for _ in range(n):
+            self.right_wheel.start_moving(100)
+            self.left_wheel.start_moving(100)
+
 
 
 
